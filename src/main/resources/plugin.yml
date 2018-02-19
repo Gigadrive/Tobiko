@@ -1,0 +1,10 @@
+name: Tobiko
+author: Zeryther
+website: https://thechest.eu
+version: 1.0
+main: eu.thechest.tobiko.Tobiko
+depend: [ChestAPI, HolographicDisplays]
+
+commands:
+  tobiko:
+    description: tobiko
